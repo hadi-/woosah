@@ -8,7 +8,7 @@ def factorial(n):
         n = n - 1
     return num
 
-# but we can do that too with math.factorial(n) libs IN python 
+# but we can do with math.factorial(n) libs in python 
 
 # read input as integer
 numbs = int(input("insert number = "))
